@@ -1,6 +1,5 @@
 package com.restAPI.rest.api.controller;
 
-import org.apache.logging.log4j.message.StringFormattedMessage;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
